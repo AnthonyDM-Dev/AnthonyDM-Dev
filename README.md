@@ -1,11 +1,15 @@
-<img align="right" alt="Coding" width="400" src="https://www.kevinwanke.com/wp-content/uploads/2021/06/marcel-friedrich-XC_28Kk25F0-unsplash.jpg">
+<div>
 
-### Hi guys 👋
+  <img align="right" alt="Coding" width="400" src="https://www.kevinwanke.com/wp-content/uploads/2021/06/marcel-friedrich-XC_28Kk25F0-unsplash.jpg">
 
-- 🔭 Currently working for NTTData and as a freelancer in my free time.
-- 🌱 What am I doing now: going deeply in web development & learning game development using Unity.
+  ### Hi guys 👋
 
-You can have a look at some of my projects by clicking [here](https://beacons.ai/anthonydm_dev)
+  - 🔭 Currently working for NTTData and as a freelancer in my free time.
+  - 🌱 What am I doing now: going deeply in web development & learning game development using Unity.
+
+  You can have a look at some of my projects by clicking [here](https://beacons.ai/anthonydm_dev)
+
+</div>
 
 <br>
 
