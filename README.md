@@ -7,4 +7,6 @@
 
 You can have a look at some of my projects by clicking [here](https://beacons.ai/anthonydm_dev)
 
+<br>
+
 [![AnthonyDM-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyDM-Dev)](https://github.com/AnthonyDM-Dev/github-readme-stats)
