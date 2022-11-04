@@ -11,8 +11,6 @@
 
 </div>
 
-<div style="margin-top: 20px;">
+<!--![](https://komarev.com/ghpvc/?username=AnthonyDM-Dev)-->
   
 [![AnthonyDM-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyDM-Dev)](https://github.com/AnthonyDM-Dev/github-readme-stats)
-
-</div>
