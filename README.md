@@ -7,7 +7,7 @@
   - 🔭 Currently working for NTTData and as a freelancer in my free time.
   - 🌱 What am I doing now: going deeply in web development & learning game development using Unity.
 
-  You can have a look at some of my projects by clicking [here]([https://beacons.ai/anthonydm_dev](https://beacons.ai/lets.code))
+  You can have a look at some of my projects by clicking [here](https://beacons.ai/lets.code)
 
 </div>
 
